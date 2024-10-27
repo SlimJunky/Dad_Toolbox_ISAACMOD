@@ -1,4 +1,4 @@
-# Dad_Toolbox_ISAACMOD
+# Dad's Toolbox Isaac Mod
 
 Source Code upload of a Mod I created for Binding of Isaac Repentance. 
 
