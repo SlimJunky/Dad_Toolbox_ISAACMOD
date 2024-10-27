@@ -1,0 +1,11 @@
+<ItemPools>
+<Pool Name="treasure">
+    <Item Name = "Dad's Toolbox" Weight="1" DecreaseBy="1" RemoveOn="0.01" />
+</Pool>
+<Pool Name="secret">
+    <Item Name = "Dad's Toolbox" Weight="1" DecreaseBy="1" RemoveOn="0.01"/>
+</Pool>
+<Pool Name="shop">
+    <Item Name = "Dad's Toolbox" Weight="1" DecreaseBy="1" RemoveOn="0.01" />
+</Pool>
+</ItemPools>

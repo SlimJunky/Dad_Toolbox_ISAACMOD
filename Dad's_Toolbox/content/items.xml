@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" deathanm2="gfx/death_items.anm2" version="1">
+<passive id="1" name="Dad's Toolbox" gfx="dad's_toolbox_item.png" description = "What's in there?" quality = "3" cleareffectsonremove = "true" shopprice = "30"/>
+</items>
